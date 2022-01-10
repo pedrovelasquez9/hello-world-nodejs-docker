@@ -1,0 +1,15 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "first node app with docker image ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Programacion en español",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
